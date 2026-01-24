@@ -1,3 +1,4 @@
+![header](https://github.com/OfficialNavneetDas/OfficialNavneetDas/blob/main/2.png)
 <h1 align="center">Hi there, I'm Navneet Das! <img alt="coding" width="40px" height="40px" src="https://github.com/OfficialNavneetDas/OfficialNavneetDas/blob/main/wave.gif"></h1>
 <h3 align="center"> Data Science Graduate | Machine Learning & Deep Learning Enthusiast</h3>
 

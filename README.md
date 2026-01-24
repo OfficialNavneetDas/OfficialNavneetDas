@@ -1,12 +1,15 @@
-# Hi there, I'm Navneet Das! 👋
-### Data Science Graduate | Machine Learning & Deep Learning Enthusiast
+<h1 align="center">Hi there, I'm Navneet Das! 👋</h1>
+<h3 align="center"> Data Science Graduate | Machine Learning & Deep Learning Enthusiast</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navneet-das-796964377)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:officialnavneetdas@gmail.com)
+<div style=display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.linkedin.com/in/navneet-das-796964377/" target="_blank"><img align="center" alt="coding" width="200" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:officialnavneetdas@gmail.com" target="_blank"><img align="center" alt="coding" width="200" src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
+</div>
 
 ---
 
 ## 🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialnavneetdas&label=Profile%20views&color=0e75b6&style=flat" alt="navneetdas816" /> </p>
 I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong foundation in **Machine Learning pipelines** and **Deep Learning** architectures.
 
 * 🔭 I recently completed an internship as a **Junior Data Analyst** at **Digistackedu**.
@@ -68,8 +71,8 @@ I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong fo
 
 ## 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=OfficialNavneetDas&show_icons=true&theme=radical" alt="Navneet's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNavneetDas&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNavneetDas&layout=donut&theme=radical" alt="most use languages" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialNavneetDas&repo=github-readme-stats" alt="Navneet's Stats" />
 </p>
 
 ---

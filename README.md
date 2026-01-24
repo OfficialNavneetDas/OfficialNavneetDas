@@ -7,9 +7,8 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/OfficialNavneetDas/OfficialNavneetDas/output/snake.svg" alt="Snake animation" />
-
+<img align="right" alt="coding" width="400" src="https://github.com/NavneetDas816/NavneetDas816/blob/main/coding.gif">
+<img src="https://raw.githubusercontent.com/officialnavneetdas/officialnavneetdas/output/snake.svg" alt="Snake animation" />
 
 ---
 ## 🚀 About Me

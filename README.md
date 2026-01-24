@@ -79,5 +79,7 @@ TOTAL                                                          █████�
 
 ---
 <p align="center">
+<img alt="fox" width="100px" src="https://github.com/OfficialNavneetDas/OfficialNavneetDas/blob/main/kyubey.gif">
   <i>Let's connect and build something amazing!</i>
+<img alt="fox" width="100px" src="https://github.com/OfficialNavneetDas/OfficialNavneetDas/blob/main/kyubey.gif">
 </p>

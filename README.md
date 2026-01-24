@@ -12,13 +12,12 @@
 <img align="right" alt="coding" width="400" src="https://github.com/officialnavneetdas/officialnavneetdas/blob/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialnavneetdas&label=Profile%20views&color=0e75b6&style=flat" alt="navneetdas816" /> </p>
 
-I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong foundation in **Machine Learning pipelines** and **Deep Learning** architectures.
 
-
-* 🔭 I recently completed an internship as a **Junior Data Analyst** at **Digistackedu**.
-* 💡 I specialize in building **Real-Time Object Detection Systems** and **Scalable Recommendation Engines**.
-* ⚡ **Core Competency:** Translating complex datasets into actionable business insights using Python and SQL.
-* 🎨 **Creative Side:** When I'm not coding, I love **3D rendering**, **Video Editing**, and watching Sci-Fi movies.
+* 👨‍🎓 I specialize in Data Science
+  
+* 📊 I recently completed an internship as a **Junior Data Analyst** at **Digistackedu**.
+* 🌱 Translating complex datasets into actionable business insights using Python and SQL.
+* 🥱 When I'm not coding, I love **3D rendering**, **Video Editing**, and watching Sci-Fi movies.
 
 
 
@@ -49,16 +48,13 @@ I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong fo
 
 ## 💼 Work Experience
 
-### **Junior Data Analyst Intern | Digistackedu**
-*Jun 2024 - Sep 2025 | Rudrapur, Uttarakhand*
-* Spearheaded data cleaning/preprocessing using Pandas, reducing analysis turnaround time by **25%**.
-* Developed predictive models with Scikit-learn to generate actionable insights.
-* Visualized complex findings using Seaborn and Matplotlib.
-
-### **Python Development Intern | CodSoft**
-*Jul 2023 - Aug 2023 | Remote*
-* Engineered a Python-based web scraper to automate data extraction, significantly reducing manual data entry.
-* Designed interactive dashboards to visualize trends for stakeholder decision-making.
+```text
+  Company                         Position                             duration                      
+Digistackedu               Junior Data Analyst Intern         ███████████████████░░░░░░   457 days 
+CodSoft                    Python Development Intern          ██░░░░░░░░░░░░░░░░░░░░░░░   31 days 
+                                                              ░░░░░░░░░░░░░░░░░░░░░░░░░
+TOTAL                                                          █████████████████████░░░   488 days
+```
 
 ---
 

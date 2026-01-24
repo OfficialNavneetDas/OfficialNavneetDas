@@ -8,6 +8,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/OfficialNavneetDas/OfficialNavneetDas/output/snake.svg" alt="Snake animation" />
+
+
+---
 ## 🚀 About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialnavneetdas&label=Profile%20views&color=0e75b6&style=flat" alt="navneetdas816" /> </p>
 I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong foundation in **Machine Learning pipelines** and **Deep Learning** architectures.
@@ -35,7 +39,6 @@ I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong fo
 **Tools & Visualization**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
@@ -72,7 +75,12 @@ I am a **Results-oriented B.Tech CSE Graduate** (Class of 2025) with a strong fo
 ## 📈 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialNavneetDas&layout=donut&theme=radical" alt="most use languages" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialNavneetDas&repo=github-readme-stats" alt="Navneet's Stats" />
+</p>
+
+---
+## ✨ favourite repos
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OfficialNavneetDas&repo=data-science-handbook&theme=radical" alt="Navneet's Stats" />
 </p>
 
 ---

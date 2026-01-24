@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Navneet Das! 👋</h1>
+<h1 align="center">Hi there, I'm Navneet Das! <img alt="coding" width="40px" height="40px" src="https://github.com/OfficialNavneetDas/OfficialNavneetDas/blob/main/wave.gif"></h1>
 <h3 align="center"> Data Science Graduate | Machine Learning & Deep Learning Enthusiast</h3>
 
 <div align="center">
@@ -61,14 +61,7 @@ TOTAL                                                          █████�
 ## 🏆 Featured Projects
 
 ### 🎥 **Real-Time Multi-Class Object Detection System (YOLO)**
-* **Tech:** YOLO, TensorFlow/Keras, OpenCV
-* **Impact:** Achieved a **Mean Average Precision (mAP@0.5) of 92%**.
-* **Details:** Deployed an inference engine processing video at **30 FPS**, utilizing Non-Maximum Suppression (NMS) and advanced augmentation (Mosaic, MixUp).
-
 ### 🎬 **Scalable Out-of-Core Recommendation Engine**
-* **Tech:** Python, SGD, Incremental Learning
-* **Impact:** Improved recommendation relevance by **7%** (Precision/Recall).
-* **Details:** Processed **5 billion feature interactions** without memory overflow using hashing vectorization and mini-batch streaming.
 
 ---
 

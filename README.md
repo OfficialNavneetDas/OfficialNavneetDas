@@ -23,7 +23,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/officialnavneetdas/officialnavneetdas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/officialnavneetdas/officialnavneetdas/output/snake.svg" alt="Snake animation"/>
 
 ---
 
